@@ -1,0 +1,114 @@
+{
+  "rudy_masud": {
+    "id": "rudy_masud",
+    "name": "Rudy Mas'ud",
+    "title": "Gubernur Kaltim",
+    "region": "Kalimantan Timur",
+    "color": "blue",
+    "icp": 5.5,
+    "sentinel": "Warning",
+    "scores": { "Integritas": 4, "Janji": 8, "Efisiensi": 3, "Sosial": 7 },
+    "promises": [
+      { "id": "RM1", "promise": "Pendidikan Gratis SMA-S3", "category": "Pendidikan", "status": "NOT_STARTED" },
+      { "id": "RM2", "promise": "Kesehatan Gratis / Subsidi BPJS", "category": "Kesehatan", "status": "NOT_STARTED" }
+    ]
+  },
+  "dedi_mulyadi": {
+    "id": "dedi_mulyadi",
+    "name": "Dedi Mulyadi",
+    "title": "Gubernur Jabar",
+    "region": "Jawa Barat",
+    "color": "red",
+    "icp": 7.5,
+    "sentinel": "Safe",
+    "scores": { "Integritas": 9, "Janji": 7, "Efisiensi": 8, "Sosial": 6 },
+    "promises": [
+      { "id": "DM1", "promise": "Insentif Petani Puncak Rp2jt/Bulan", "category": "Lingkungan", "status": "IN_PROGRESS" },
+      { "id": "DM3", "promise": "Tolak Izin Tambang Parung Panjang", "category": "Integritas", "status": "COMPLETED" }
+    ]
+  },
+  "anies_baswedan": {
+    "id": "anies_baswedan",
+    "name": "Anies Baswedan",
+    "title": "Eks Gubernur DKI",
+    "region": "DKI Jakarta",
+    "color": "indigo",
+    "icp": 7.8,
+    "sentinel": "Safe",
+    "scores": { "Integritas": 8, "Janji": 8, "Efisiensi": 7, "Sosial": 9 },
+    "promises": [
+      { "id": "AB1", "promise": "DP Nol Rupiah", "category": "Perumahan", "status": "STALLED" },
+      { "id": "AB2", "promise": "Integrasi Transportasi (JakLingko)", "category": "Infrastruktur", "status": "COMPLETED" }
+    ]
+  },
+  "basuki_tjahaja": {
+    "id": "basuki_tjahaja",
+    "name": "B. Tjahaja Purnama",
+    "title": "Eks Gubernur DKI",
+    "region": "DKI Jakarta",
+    "color": "rose",
+    "icp": 8.2,
+    "sentinel": "Safe",
+    "scores": { "Integritas": 9, "Janji": 7, "Efisiensi": 9, "Sosial": 5 },
+    "promises": [
+      { "id": "BTP1", "promise": "Normalisasi Sungai", "category": "Lingkungan", "status": "IN_PROGRESS" },
+      { "id": "BTP2", "promise": "Transparansi Anggaran (E-Budgeting)", "category": "Birokrasi", "status": "COMPLETED" }
+    ]
+  },
+  "ridwan_kamil": {
+    "id": "ridwan_kamil",
+    "name": "Ridwan Kamil",
+    "title": "Eks Gubernur Jabar",
+    "region": "Jawa Barat",
+    "color": "emerald",
+    "icp": 8.0,
+    "sentinel": "Safe",
+    "scores": { "Integritas": 7, "Janji": 8, "Efisiensi": 8, "Sosial": 9 },
+    "promises": [
+      { "id": "RK1", "promise": "Jabar Digital Service", "category": "Birokrasi", "status": "COMPLETED" },
+      { "id": "RK2", "promise": "Revitalisasi Alun-alun", "category": "Infrastruktur", "status": "COMPLETED" }
+    ]
+  },
+  "ganjar_pranowo": {
+    "id": "ganjar_pranowo",
+    "name": "Ganjar Pranowo",
+    "title": "Eks Gubernur Jateng",
+    "region": "Jawa Tengah",
+    "color": "slate",
+    "icp": 7.4,
+    "sentinel": "Safe",
+    "scores": { "Integritas": 7, "Janji": 7, "Efisiensi": 8, "Sosial": 8 },
+    "promises": [
+      { "id": "GP1", "promise": "Sekolah Tanpa Sekat", "category": "Pendidikan", "status": "IN_PROGRESS" },
+      { "id": "GP2", "promise": "LaporGub!", "category": "Birokrasi", "status": "COMPLETED" }
+    ]
+  },
+  "sri_mulyani": {
+    "id": "sri_mulyani",
+    "name": "Sri Mulyani",
+    "title": "Menteri Keuangan",
+    "region": "Nasional",
+    "color": "cyan",
+    "icp": 9.1,
+    "sentinel": "Safe",
+    "scores": { "Integritas": 10, "Janji": 9, "Efisiensi": 9, "Sosial": 7 },
+    "promises": [
+      { "id": "SMI1", "promise": "Reformasi Perpajakan", "category": "Ekonomi", "status": "IN_PROGRESS" },
+      { "id": "SMI2", "promise": "Pengelolaan Utang Terukur", "category": "Ekonomi", "status": "COMPLETED" }
+    ]
+  },
+  "prabowo_subianto": {
+    "id": "prabowo_subianto",
+    "name": "Prabowo Subianto",
+    "title": "Presiden RI",
+    "region": "Nasional",
+    "color": "orange",
+    "icp": 7.0,
+    "sentinel": "Safe",
+    "scores": { "Integritas": 7, "Janji": 6, "Efisiensi": 7, "Sosial": 8 },
+    "promises": [
+      { "id": "PS1", "promise": "Makan Siang Gratis", "category": "Sosial", "status": "IN_PROGRESS" },
+      { "id": "PS2", "promise": "Kemandirian Pangan", "category": "Pertanian", "status": "IN_PROGRESS" }
+    ]
+  }
+}

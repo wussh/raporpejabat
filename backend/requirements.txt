@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+psycopg2-binary
+qdrant-client
+celery
+redis
+scrapy @ git+https://github.com/scrapy/scrapy.git@2.15.2
+langchain
+langchain-openai
+python-dotenv

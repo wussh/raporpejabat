@@ -1,0 +1,126 @@
+{
+  "rudy_masud": [
+    {
+      "id": "RM_01",
+      "promise": "Pendidikan Gratis dari SMA/SMK hingga Kuliah (S1-S3)",
+      "category": "Pendidikan",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_02",
+      "promise": "Kesehatan Gratis / Subsidi BPJS Kaltim",
+      "category": "Kesehatan",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_03",
+      "promise": "Makan Bergizi Gratis untuk Anak-anak",
+      "category": "Sosial",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_04",
+      "promise": "Wi-Fi Gratis di Seluruh Desa Kaltim",
+      "category": "Infrastruktur",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_05",
+      "promise": "Seragam dan Sepatu Sekolah Gratis",
+      "category": "Pendidikan",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_06",
+      "promise": "Pembebasan Biaya Administrasi Rumah Pertama",
+      "category": "Ekonomi",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_07",
+      "promise": "Program Umrah Gratis bagi Marbot dan Petugas Rumah Ibadah",
+      "category": "Sosial",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_08",
+      "promise": "Hilirisasi Komoditas Unggulan Daerah",
+      "category": "Ekonomi",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_09",
+      "promise": "Konektivitas Infrastruktur (Tol Bontang-Kutai Timur)",
+      "category": "Infrastruktur",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "RM_10",
+      "promise": "Kaltim Terang (Listrik Merata di Seluruh Desa)",
+      "category": "Infrastruktur",
+      "status": "NOT_STARTED"
+    }
+  ],
+  "dedi_mulyadi": [
+    {
+      "id": "DM_01",
+      "promise": "Layanan Kesehatan Gratis bagi Warga Tidak Mampu",
+      "category": "Kesehatan",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_02",
+      "promise": "Penambahan SMA/SMK dan Ruang Kelas Baru",
+      "category": "Pendidikan",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_03",
+      "promise": "Rumah Rakyat Layak Huni (Rp40-50 Juta/Unit)",
+      "category": "Sosial",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_04",
+      "promise": "Beasiswa 10.000 Putra Daerah di Politeknik Terapan",
+      "category": "Pendidikan",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_05",
+      "promise": "Sistem Pengelolaan Sampah Mandiri Tingkat RT",
+      "category": "Lingkungan",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_06",
+      "promise": "Industri Pengobatan Berbasis Kearifan Lokal",
+      "category": "Ekonomi",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_07",
+      "promise": "Peningkatan Kesejahteraan Perangkat Desa (RT/RW/Linmas)",
+      "category": "Birokrasi",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_08",
+      "promise": "Ekosistem Pertanian Organik Terintegrasi",
+      "category": "Pertanian",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_09",
+      "promise": "Penciptaan Lapangan Kerja via Investasi dan Smart City",
+      "category": "Ekonomi",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "DM_10",
+      "promise": "Mengurangi Disparitas Pembangunan Jabar Utara dan Selatan",
+      "category": "Pemerataan",
+      "status": "NOT_STARTED"
+    }
+  ]
+}

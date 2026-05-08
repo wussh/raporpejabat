@@ -1,0 +1,98 @@
+{
+  "rudy_masud": {
+    "name": "Rudy Mas'ud",
+    "region": "Kalimantan Timur",
+    "election_year": 2024,
+    "vision": "Kaltim Sukses Menuju Generasi Emas",
+    "missions": [
+      "Mewujudkan SDM yang unggul, berdaya saing, dan sejahtera.",
+      "Mewujudkan Kaltim sebagai pusat ekonomi baru yang inklusif berbasis industrialisasi komoditas unggulan daerah (hilirisasi).",
+      "Meningkatkan pembangunan infrastruktur untuk menunjang konektivitas, ekonomi, serta pelayanan publik dan kesehatan.",
+      "Memperkuat tata kelola pemerintahan yang bersih, transparan, dan inovatif.",
+      "Meningkatkan ketahanan pangan dan energi yang berkelanjutan.",
+      "Melestarikan lingkungan hidup dan ketahanan terhadap bencana.",
+      "Mewujudkan pemerataan pembangunan antarwilayah di seluruh kabupaten/kota di Kaltim.",
+      "Memperkuat kehidupan sosial budaya yang harmonis dan religius."
+    ],
+    "flagship_programs": [
+      {
+        "name": "Pendidikan Gratis",
+        "description": "Biaya sekolah gratis dari tingkat SMA/SMK hingga kuliah (S1, S2, dan S3)."
+      },
+      {
+        "name": "Kesehatan Gratis",
+        "description": "Jaminan akses kesehatan berkualitas bagi seluruh warga (termasuk subsidi BPJS)."
+      },
+      {
+        "name": "Makan Bergizi Gratis",
+        "description": "Program pemberian makanan bergizi untuk anak-anak."
+      },
+      {
+        "name": "Wi-Fi Gratis",
+        "description": "Akses internet gratis di seluruh desa di Kalimantan Timur."
+      },
+      {
+        "name": "Seragam & Sepatu Sekolah Gratis",
+        "description": "Bantuan perlengkapan sekolah untuk siswa."
+      },
+      {
+        "name": "Biaya Administrasi Rumah Gratis",
+        "description": "Pembebasan biaya administrasi untuk kepemilikan rumah pertama bagi warga kurang mampu."
+      },
+      {
+        "name": "Umrah Gratis",
+        "description": "Program keberangkatan umrah bagi marbot masjid dan petugas rumah ibadah lainnya."
+      }
+    ]
+  },
+  "dedi_mulyadi": {
+    "name": "Dedi Mulyadi",
+    "region": "Jawa Barat",
+    "election_year": 2024,
+    "vision": "Jabar Istimewa (Lembur Diurus, Kota Ditata)",
+    "missions": [
+      "Mewujudkan Sumber Daya Manusia Berkarakter: Mengembangkan SDM yang cerdas, berpengetahuan, bertaqwa, dan profesional.",
+      "Mengembangkan Ekonomi Kerakyatan dan Investasi: Mendorong pertumbuhan ekonomi berbasis kearifan lingkungan.",
+      "Menjaga Keseimbangan Pembangunan: Mengurangi disparitas antara Utara dan Selatan, kaya dan miskin, kota dan desa.",
+      "Mewujudkan Birokrasi yang Adaptif: Tata kelola pemerintahan Good and Clean Governance."
+    ],
+    "flagship_programs": [
+      {
+        "name": "Kesehatan Istimewa",
+        "description": "Layanan kesehatan gratis bagi warga tidak mampu dan pembangunan RS spesialis."
+      },
+      {
+        "name": "Pendidikan Istimewa",
+        "description": "Penambahan SMA/SMK, ruang kelas baru, dan sertifikasi paket A, B, C."
+      },
+      {
+        "name": "Rumah Rakyat",
+        "description": "Pembangunan rumah layak huni untuk masyarakat miskin (Rp40–50 juta/unit)."
+      },
+      {
+        "name": "Beasiswa 10.000 Putra Daerah",
+        "description": "Beasiswa politeknik terapan untuk mencetak SDM siap kerja."
+      },
+      {
+        "name": "Pengelolaan Sampah Mandiri",
+        "description": "Sistem pengelolaan sampah berbasis lingkungan hingga tingkat RT."
+      },
+      {
+        "name": "Industri Pengobatan Lokal",
+        "description": "Pengembangan industri obat-obatan berbasis kearifan lokal."
+      },
+      {
+        "name": "Kesejahteraan Perangkat Desa",
+        "description": "Peningkatan insentif Kades, RT, RW, Linmas, PKK, Posyandu, Guru Agama."
+      },
+      {
+        "name": "Pertanian Istimewa",
+        "description": "Ekosistem pertanian organik terintegrasi (kehutanan, peternakan, perikanan)."
+      },
+      {
+        "name": "Ekonomi & Tata Ruang Istimewa",
+        "description": "Lapangan kerja baru via investasi, pariwisata, ekraf, dan Smart City."
+      }
+    ]
+  }
+}
